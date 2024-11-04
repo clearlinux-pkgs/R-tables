@@ -7,7 +7,7 @@
 #
 Name     : R-tables
 Version  : 0.9.31
-Release  : 28
+Release  : 29
 URL      : https://cran.r-project.org/src/contrib/tables_0.9.31.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/tables_0.9.31.tar.gz
 Summary  : Formula-Driven Table Generation
